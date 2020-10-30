@@ -1,0 +1,3 @@
+[submodule "mobile/data-list"]
+	path = mobile/data-list
+	url = https://github.com/hmargaryan/data-list
