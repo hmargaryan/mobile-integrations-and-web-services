@@ -2,3 +2,6 @@
 	path = mobile/data-list
 	url = https://github.com/hmargaryan/data-list
 	branch = master
+[submodule "services/blog"]
+	path = services/blog
+	url = https://github.com/hmargaryan/node-blog
